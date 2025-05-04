@@ -39,7 +39,7 @@ Here are some of the open-source tools I'm building to help with debt management
 *   **Tech Stack:** Python (FastAPI Backend), HTML, CSS, JavaScript (Frontend)
 *   **Repository:** [Link to Repo](YOUR_CALCULATOR_REPO_URL) <!-- REPLACE with your calculator repo URL -->
 *   **Live Demo:** [It's Planned](PLANNING_LIVE_DEMO) <!-- REPLACE with live demo URL when available -->
-*   <!-- Add a screenshot or GIF of the calculator here -->
+   <!-- Add a screenshot or GIF of the calculator here -->
     <!-- ![Debt Calculator Screenshot](YOUR_CALCULATOR_SCREENSHOT_URL) -->
 
 ### 📉 Late Payment Impact Simulator
@@ -47,10 +47,9 @@ Here are some of the open-source tools I'm building to help with debt management
 *   **Tech Stack:** Python (Flask Backend), HTML, CSS, JavaScript (Frontend)
 *   **Repository:** [Link to Repo](YOUR_SIMULATOR_REPO_URL) <!-- REPLACE with your simulator repo URL -->
 *   **Live Demo:** [It's Planned](PLANNING_LIVE_DEMO) <!-- REPLACE with live demo URL when available -->
-*   <!-- Add a screenshot or GIF of the simulator here -->
+   <!-- Add a screenshot or GIF of the simulator here -->
     <!-- ![Late Payment Simulator Screenshot](YOUR_SIMULATOR_SCREENSHOT_URL) -->
 
-*(As you build more projects, add them here following the same format)*
 
 ---
 
