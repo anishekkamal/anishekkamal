@@ -55,10 +55,11 @@ Here are some of the open-source tools I'm building to help with debt management
 
 ## Let's Connect
 
-*   🌐 **[Debtzero.club](https://debtzero.club/)** <!-- REPLACE with your Debtzero.club website URL -->
-*   👔 **[LinkedIn](https://www.linkedin.com/in/anishekkamal/)**
-*   📧 **[Email](mailto:anishekkamal@gmail.com)**
-*   🐦 **[Twitter](https://x.com/anishekkamal)**
+*   **[Debtzero.club](https://debtzero.club/)** <!-- REPLACE with your Debtzero.club website URL -->
+*   **[LinkedIn](https://www.linkedin.com/in/anishekkamal/)**
+*   **[Email](mailto:anishekkamal@gmail.com)**
+*   **[X/Twitter](https://x.com/anishekkamal)**
+*   **[Instagram](https://www.instagram.com/debtzerofounder)**
 
 ---
 
