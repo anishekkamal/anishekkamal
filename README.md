@@ -38,7 +38,7 @@ Here are some of the open-source tools I'm building to help with debt management
 ### 📊 Debt Avalanche vs. Snowball Calculator
 *   **Problem:** Helps users compare the two primary debt payoff strategies to see which saves the most money and time.
 *   **Tech Stack:** Python (FastAPI Backend), HTML, CSS, JavaScript (Frontend)
-*   **Repository:** [Link to Repo](YOUR_CALCULATOR_REPO_URL) <!-- REPLACE with your calculator repo URL -->
+*   **Repository:** [Link to Repo](https://github.com/anishekkamal/avalanche-vs-snowball_calculator) <!-- REPLACE with your calculator repo URL -->
 *   **Live Demo:** [It's Planned](PLANNING_LIVE_DEMO) <!-- REPLACE with live demo URL when available -->
    <!-- Add a screenshot or GIF of the calculator here -->
     <!-- ![Debt Calculator Screenshot](YOUR_CALCULATOR_SCREENSHOT_URL) -->
@@ -46,7 +46,7 @@ Here are some of the open-source tools I'm building to help with debt management
 ### 📉 Late Payment Impact Simulator
 *   **Problem:** Visualizes and estimates the significant costs and consequences of a single late payment, especially the impact on credit score after 30 days.
 *   **Tech Stack:** Python (Flask Backend), HTML, CSS, JavaScript (Frontend)
-*   **Repository:** [Link to Repo](YOUR_SIMULATOR_REPO_URL) <!-- REPLACE with your simulator repo URL -->
+*   **Repository:** [Link to Repo](https://github.com/anishekkamal/late_payment_simulator_project) <!-- REPLACE with your simulator repo URL -->
 *   **Live Demo:** [It's Planned](PLANNING_LIVE_DEMO) <!-- REPLACE with live demo URL when available -->
    <!-- Add a screenshot or GIF of the simulator here -->
     <!-- ![Late Payment Simulator Screenshot](YOUR_SIMULATOR_SCREENSHOT_URL) -->
