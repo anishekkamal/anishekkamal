@@ -11,9 +11,9 @@ Having navigated my own financial and debt challenges, I'm deeply passionate abo
 
 ## About Me & My Background
 
-*   **Current Role:** I currently work as a **Senior Cloud Solution Architect at Microsoft**, helping organizations leverage cloud technologies to solve complex problems.
+*   **Current Role:** I currently work as a **Senior Cloud Solution Architect at Microsoft**, helping organizations leverage cloud technologies to solve complex Data and AI problems.
 *   **Past Experience:** My career has spanned various technical roles at leading companies including **Press Ganey, Lululemon, MGM Resorts, and Neal Analytics**.
-*   **Career Journey:** I started as a **Big Data Developer** working with Hadoop on-premise. My path evolved through mastering **AWS and Azure** cloud platforms, transitioning into **Cloud Data Engineering**, and ultimately leading to my current focus on **Cloud Architecture**. This background in data, cloud infrastructure, and architecting robust systems is directly applicable to building reliable and scalable fintech solutions.
+*   **Career Journey:** I started as a **Big Data Developer** working with Hadoop on-premise. My path evolved through mastering **AWS and Azure** cloud platforms, transitioning into **Cloud Data Engineering**, and ultimately leading to my current focus on **Cloud Architecture**. This background in AI, data, cloud infrastructure, and architecting robust systems is directly applicable to building reliable and scalable fintech solutions.
 *   **Origin:** I was born and raised in **Darbhanga, Bihar, India**, and moved to the **United States in 2019**.
 
 Now, I am channeling my passion and technical expertise into building DebtZero to make a real difference in people's financial lives.
