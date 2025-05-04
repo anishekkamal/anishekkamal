@@ -3,7 +3,7 @@
 <!-- Placeholder for your header image or GIF - add the URL here when you have it -->
 <!-- ![Header Image](YOUR_HEADER_IMAGE_URL_HERE) -->
 
-I'm the founder of **[Debtzero.club](YOUR_DEBTZERO_WEBSITE_URL)**. I'm on a mission to **empower people to achieve financial freedom** by providing simple, accessible, and powerful debt management tools.
+I'm the founder of **[Debtzero.club](https://debtzero.club/)**. I'm on a mission to **empower people to achieve financial freedom** by providing simple, accessible, and powerful debt management tools.
 
 Having navigated my own financial and debt challenges, I'm deeply passionate about building solutions that truly help individuals get out of debt faster and more easily. My journey from facing personal debt struggles to building DebtZero is fueled by this experience.
 
