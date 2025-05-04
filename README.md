@@ -1,3 +1,4 @@
+![Alt text describing your image](1739553644924.jpeg)
 # Hi, I'm Anishek Kamal! 👋
 
 <!-- Placeholder for your header image or GIF - add the URL here when you have it -->
