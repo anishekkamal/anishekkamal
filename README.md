@@ -1,10 +1,8 @@
-![Alt text describing your image](1739553644924.jpeg)
+![Alt text describing your image](banner.png)
 # Hi, I'm Anishek Kamal! 👋
 
-<!-- Placeholder for your header image or GIF - add the URL here when you have it -->
-<!-- ![Header Image](YOUR_HEADER_IMAGE_URL_HERE) -->
 
-I'm the founder of **[Debtzero.club](https://debtzero.club/)**. I'm on a mission to **empower people to achieve financial freedom** by providing simple, accessible, and powerful debt management tools.
+I'm the founder of **[Toya AI](https://usetoya.com/)**. I'm on a mission to **empower people to achieve financial freedom** by providing simple, accessible, and powerful debt management tools.
 
 Having navigated my own financial and debt challenges, I'm deeply passionate about building solutions that truly help individuals get out of debt faster and more easily. My journey from facing personal debt struggles to building DebtZero is fueled by this experience.
 
@@ -31,46 +29,14 @@ Now, I am channeling my passion and technical expertise into building DebtZero t
 
 ---
 
-## Featured Projects
-
-Here are some of the open-source tools I'm building to help with debt management and financial understanding:
-
-### 📊 Debt Avalanche vs. Snowball Calculator
-*   **Problem:** Helps users compare the two primary debt payoff strategies to see which saves the most money and time.
-*   **Tech Stack:** Python (FastAPI Backend), HTML, CSS, JavaScript (Frontend)
-*   **Repository:** [Link to Repo](https://github.com/anishekkamal/avalanche-vs-snowball_calculator) <!-- REPLACE with your calculator repo URL -->
-*   **Live Demo:** [It's Planned](PLANNING_LIVE_DEMO) <!-- REPLACE with live demo URL when available -->
-   <!-- Add a screenshot or GIF of the calculator here -->
-    <!-- ![Debt Calculator Screenshot](YOUR_CALCULATOR_SCREENSHOT_URL) -->
-
-### 📉 Late Payment Impact Simulator
-*   **Problem:** Visualizes and estimates the significant costs and consequences of a single late payment, especially the impact on credit score after 30 days.
-*   **Tech Stack:** Python (Flask Backend), HTML, CSS, JavaScript (Frontend)
-*   **Repository:** [Link to Repo](https://github.com/anishekkamal/late_payment_simulator_project) <!-- REPLACE with your simulator repo URL -->
-*   **Live Demo:** [It's Planned](PLANNING_LIVE_DEMO) <!-- REPLACE with live demo URL when available -->
-   <!-- Add a screenshot or GIF of the simulator here -->
-    <!-- ![Late Payment Simulator Screenshot](YOUR_SIMULATOR_SCREENSHOT_URL) -->
-
-
----
-
 ## Let's Connect
 
-*   **[Debtzero.club](https://debtzero.club/)** <!-- REPLACE with your Debtzero.club website URL -->
+*   **[Toya AI](https://usetoya.com/)** <!-- REPLACE with your Debtzero.club website URL -->
+*   **[Personal Website](https://anishekkamal.com/)**
 *   **[LinkedIn](https://www.linkedin.com/in/anishekkamal/)**
-*   **[Email](mailto:anishekkamal@gmail.com)**
 *   **[X/Twitter](https://x.com/anishekkamal)**
 *   **[Instagram](https://www.instagram.com/debtzerofounder)**
+*   **[Email](mailto:anishekkamal@gmail.com)**
 
 ---
 
-## GitHub Stats
-
-<!-- These badges dynamically update. Replace 'radical' with other themes like 'ocean', 'dark', 'vue', etc. if you like. -->
-![Anishek Kamal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anishekkamal&show_icons=true&theme=radical&hide_rank=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anishekkamal&layout=compact&theme=radical)
-
----
-
-<!-- Optional: Add a simple footer or closing remark -->
-<!-- Built with passion for financial freedom! -->
